@@ -1,4 +1,4 @@
-package koreait.quiz;
+package koreait.day12quiz;
 
 import java.util.ArrayList;
 import java.util.Scanner;
